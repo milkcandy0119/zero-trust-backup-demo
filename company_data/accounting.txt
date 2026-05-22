@@ -1,0 +1,4 @@
+Accounting Summary
+Payroll: 300,000 NTD
+Cloud Service: 28,000 NTD
+Security Budget: 80,000 NTD
