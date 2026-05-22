@@ -1,4 +1,0 @@
-Customer ID,Name,Plan
-C001,Alice,Enterprise
-C002,Bob,Standard
-C003,Charlie,Premium
